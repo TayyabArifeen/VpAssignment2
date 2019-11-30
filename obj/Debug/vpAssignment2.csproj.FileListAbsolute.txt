@@ -1,0 +1,14 @@
+c:\users\arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\bin\Debug\vpAssignment2.exe.config
+c:\users\arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\bin\Debug\vpAssignment2.exe
+c:\users\arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\bin\Debug\vpAssignment2.pdb
+c:\users\arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.csprojResolveAssemblyReference.cache
+c:\users\arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.Form1.resources
+c:\users\arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.Properties.Resources.resources
+c:\users\arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.csproj.GenerateResource.Cache
+c:\users\arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.exe
+c:\users\arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.pdb
+C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.createStudentForm.resources
+C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.SearchForm.resources
+C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.SearchByIdForm.resources
+C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.deleteForm.resources
+C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.SearchbynameForm.resources
