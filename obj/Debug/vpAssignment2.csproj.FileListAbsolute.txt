@@ -12,3 +12,6 @@ C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2
 C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.SearchByIdForm.resources
 C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.deleteForm.resources
 C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.SearchbynameForm.resources
+C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.MarkAttendenceForm.resources
+C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.ViewAttendenceForm.resources
+C:\Users\Arife\documents\visual studio 2013\Projects\vpAssignment2\vpAssignment2\obj\Debug\vpAssignment2.Top3Form.resources

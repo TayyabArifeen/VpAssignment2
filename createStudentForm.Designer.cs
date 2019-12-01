@@ -66,6 +66,7 @@
             this.addstdntbtn.TabIndex = 1;
             this.addstdntbtn.Text = "Add Student";
             this.addstdntbtn.UseVisualStyleBackColor = true;
+            this.addstdntbtn.Click += new System.EventHandler(this.addstdntbtn_Click);
             // 
             // semesterTextbox
             // 
@@ -73,6 +74,7 @@
             this.semesterTextbox.Name = "semesterTextbox";
             this.semesterTextbox.Size = new System.Drawing.Size(170, 22);
             this.semesterTextbox.TabIndex = 2;
+            this.semesterTextbox.TextChanged += new System.EventHandler(this.semesterTextbox_TextChanged);
             // 
             // cgpaTextbox
             // 
@@ -80,6 +82,7 @@
             this.cgpaTextbox.Name = "cgpaTextbox";
             this.cgpaTextbox.Size = new System.Drawing.Size(170, 22);
             this.cgpaTextbox.TabIndex = 3;
+            this.cgpaTextbox.TextChanged += new System.EventHandler(this.cgpaTextbox_TextChanged);
             // 
             // deptTextbox
             // 
@@ -87,6 +90,7 @@
             this.deptTextbox.Name = "deptTextbox";
             this.deptTextbox.Size = new System.Drawing.Size(170, 22);
             this.deptTextbox.TabIndex = 4;
+            this.deptTextbox.TextChanged += new System.EventHandler(this.deptTextbox_TextChanged);
             // 
             // StdNamelbl
             // 
@@ -139,6 +143,7 @@
             this.uniTextbox.Name = "uniTextbox";
             this.uniTextbox.Size = new System.Drawing.Size(170, 22);
             this.uniTextbox.TabIndex = 10;
+            this.uniTextbox.TextChanged += new System.EventHandler(this.uniTextbox_TextChanged);
             // 
             // createStudentForm
             // 
@@ -158,6 +163,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "createStudentForm";
             this.Text = "createStudentForm";
+            this.Load += new System.EventHandler(this.createStudentForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

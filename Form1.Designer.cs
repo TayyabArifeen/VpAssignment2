@@ -76,6 +76,7 @@
             this.top3btn.TabIndex = 3;
             this.top3btn.Text = "List Top 3 of Class";
             this.top3btn.UseVisualStyleBackColor = true;
+            this.top3btn.Click += new System.EventHandler(this.top3btn_Click);
             // 
             // markattndbtn
             // 
@@ -85,6 +86,7 @@
             this.markattndbtn.TabIndex = 4;
             this.markattndbtn.Text = "Mark Attendence";
             this.markattndbtn.UseVisualStyleBackColor = true;
+            this.markattndbtn.Click += new System.EventHandler(this.markattndbtn_Click);
             // 
             // viewattndbtn
             // 
@@ -94,6 +96,7 @@
             this.viewattndbtn.TabIndex = 5;
             this.viewattndbtn.Text = "View Attendence";
             this.viewattndbtn.UseVisualStyleBackColor = true;
+            this.viewattndbtn.Click += new System.EventHandler(this.viewattndbtn_Click);
             // 
             // cancelbtn
             // 
@@ -103,6 +106,7 @@
             this.cancelbtn.TabIndex = 6;
             this.cancelbtn.Text = "Cancel";
             this.cancelbtn.UseVisualStyleBackColor = true;
+            this.cancelbtn.Click += new System.EventHandler(this.cancelbtn_Click);
             // 
             // Form1
             // 
@@ -119,6 +123,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Attendence ";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
